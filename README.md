@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/virtual__heart" target="blank"><img src="https://img.shields.io/twitter/follow/virtual__heart?logo=twitter&style=for-the-badge" alt="virtual__heart" /></a> </p>
 
-- 🔭 I’m currently working on [LMS-V2](https://github.com/virtualheart/LMS-V2)
+- 🔭 I’m currently working on [ZKTECO Biometric java lib](https://github.com/virtualheart/ZKteck-biomatric-lib)
 
 - 🌱 I’m currently learning **Codeigniter 4**
 
