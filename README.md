@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/virtual__heart" target="blank"><img src="https://img.shields.io/twitter/follow/virtual__heart?logo=twitter&style=for-the-badge" alt="virtual__heart" /></a> </p>
 
-- 🔭 I’m currently working on [ZKTECO Biometric java lib](https://github.com/virtualheart/ZKteck-biomatric-lib)
+- 🔭 !I’m currently working on [ZKTECO Biometric java lib](https://github.com/virtualheart/ZKteck-biomatric-lib)
 
-- 🌱 I’m currently learning **Codeigniter 4**
+- 🌱 I’m currently learning **SAP Hybris**
 
 - 👨‍💻 All of my projects are available at [Githib](https://github.com/virtualheart)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **dhanajayan99@gmail.com**
 
-- 📄 Know about my experiences [virtualheart.gq](virtualheart.gq)
+- 📄 Know about my experiences [virtualheart.gq](https://virtualheart.github.io/)
 
 - ⚡ Fun fact **Thiñk aböut mörë Useless(⅝)**
 
