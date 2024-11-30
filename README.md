@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhanajayan K</h1>
-<h3 align="center">Mainframe and java developer</h3>
+<h3 align="center">Java Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=virtualheart&label=Profile%20views&color=0e75b6&style=flat" alt="virtualheart" /> </p>
 
@@ -7,17 +7,17 @@
 
 <p align="left"> <a href="https://twitter.com/virtual__heart" target="blank"><img src="https://img.shields.io/twitter/follow/virtual__heart?logo=twitter&style=for-the-badge" alt="virtual__heart" /></a> </p>
 
-- 🔭 !I’m currently working on [ZKTECO Biometric java lib](https://github.com/virtualheart/ZKteck-biomatric-lib)
+- 🔭 !I’m currently working on [null](https://#)
 
 - 🌱 I’m currently learning **SAP Hybris**
 
 - 👨‍💻 All of my projects are available at [Githib](https://github.com/virtualheart)
 
-- 💬 Ask me about **Java and Mainframe**
+- 💬 Ask me about **Java developer**
 
 - 📫 How to reach me **dhanajayan99@gmail.com**
 
-- 📄 Know about my experiences [virtualheart.gq](https://virtualheart.github.io/)
+- 📄 Know about my experiences [Dhanajayan.me](https://dhanajayan.me/)
 
 - ⚡ Fun fact **Thiñk aböut mörë Useless(⅝)**
 
