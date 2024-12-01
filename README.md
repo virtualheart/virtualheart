@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Githib](https://github.com/virtualheart)
 
-- 💬 Ask me about **Java developer**
+- 💬 Ask me about **Java and mainframe**
 
 - 📫 How to reach me **dhanajayan99@gmail.com**
 
@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://app.hackthebox.com/profile/185223/" target="blank"><img align="center" src="" alt="Hackthebox" height="30" width="40" /></a>
+<a href="https://app.hackthebox.com/profile/185223/" target="blank"><img align="center" src="https://www.hackthebox.com/images/landingv3/mega-menu-logo-htb.svg" alt="Hackthebox" height="30" width="40" /></a>
 <a href="https://twitter.com/virtual__heart" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="virtual__heart" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/dhana-jayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dhana-jayan" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/21780293" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21780293" height="30" width="40" /></a>
